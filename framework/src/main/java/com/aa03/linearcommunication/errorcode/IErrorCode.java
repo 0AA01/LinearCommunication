@@ -1,4 +1,4 @@
-package com.aa03.linearcommunication.errorceod;
+package com.aa03.linearcommunication.errorcode;
 
 /**
  * 错误码抽象接口

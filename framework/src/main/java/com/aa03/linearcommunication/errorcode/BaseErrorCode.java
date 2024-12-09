@@ -1,4 +1,4 @@
-package com.aa03.linearcommunication.errorceod;
+package com.aa03.linearcommunication.errorcode;
 
 /**
  * 基础错误码定义
