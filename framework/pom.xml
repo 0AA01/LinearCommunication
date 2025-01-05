@@ -10,6 +10,10 @@
     </parent>
 
     <artifactId>linearcommunication-framework</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>convention</module>
+    </modules>
 
 
     <dependencies>
